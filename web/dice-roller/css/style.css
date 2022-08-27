@@ -1,0 +1,13 @@
+html {
+    background-color: black;
+    color: white;
+}
+li {
+    font-size: 50px;
+    padding: 10px;
+    list-style: none;
+    color: slateblue;
+}
+span {
+    padding:  0px 50px;
+}
